@@ -6,7 +6,8 @@ something much older underneath it.
 The owner started this book and has handed it to Draco to finish. This file is
 the canon: what has been decided, in the owner's own notes. `PLAN.md` is the
 working map of what is written and what is not. Read both before writing a
-line, then read every file in `book-1/` and `notebook/`.
+line, then read every file in `book-1/` and `notebook/`, then
+`docs/CRAFT-FICTION.md`, the craft notes on scene, aperture and structure.
 
 ---
 
