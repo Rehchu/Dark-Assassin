@@ -8,22 +8,24 @@ settle it. Open means Draco decides. Keep it true.
 
 ## Book One — The Hilt
 
-### What exists (2,266 words of prose, seven scenes)
+### What exists (3,723 words of prose, seven scenes)
 
 | # | Scene | Words | Status | Notes |
 |---|---|---|---|---|
 | 01 | Adoption Papers | 360 | written | Felix finds proof he is adopted. |
 | 02 | Addie's Mom | 329 | written | Janet Walker. What does she know, and how much does she say? |
-| 03 | The Coffee Shop (part 1) | 445 | written | |
-| 04 | The Coffee Shop (part 2) | 321 | written | Continuation. Confirm it follows 03 directly. |
-| 05 | Research | 324 | written | Addie researches the obsidian at home; finds nothing; needs someone who knows. |
+| 03 | The Coffee Shop (part 1) | 445 | written | Addie leaves for the store, the necklace still on her. |
+| 04 | Research | 324 | written | Same evening: Addie realises she has the necklace, takes it home, researches the obsidian and finds the rune. |
+| 05 | The Coffee Shop (part 2) | 321 | written | The next day: she FaceTimes her findings, returns the necklace, the barista sends them to the pawn shop. |
 | 06 | The Pawn Shop | 437 | written | The strongest scene. The craftsman recognises the necklace. |
-| 07 | The Man Who Made the Necklace | 26 | stub | A fragment: he made it "for a lady who wanted to stay hidden." This is the reveal of what the necklace is. Write it out. |
+| 07 | The Man Who Made the Necklace | 1,483 | written | The reveal of what the necklace is — a concealment charm the craftsman made for a hidden woman. He recognises the wax seal, warns Felix never to remove it, and points them to the old orphanage. Ends on the necklace kept on and a lead to pull. |
 
-**Ordering is Draco's first decision.** The files were in two folders — *I'm
-Adopted?* (01–03) and *The Necklace* (04–07) — and the order above is one
-sensible reading, not the owner's ruling. Research (05) must come before the
-pawn shop (06), because the pawn shop is where they go when research fails.
+**Ordering — decided.** The files came in two folders — *I'm Adopted?* (01–03)
+and *The Necklace* (04–07) — in an order that read backwards. Fixed to follow
+the day: Coffee Shop part 1 (Addie leaves with the necklace) → Research (that
+evening, at home) → Coffee Shop part 2 (next day, she returns it and gets the
+pawn-shop tip) → the Pawn Shop. "Coffee Shop part 2" opens by referencing "what
+she found out," which is the Research scene, so Research must precede it.
 
 ### What the notes decide but nobody has written
 
