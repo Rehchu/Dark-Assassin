@@ -35,10 +35,12 @@ is made necessary.
 
 ## The 24 chapters
 
-**Optional Prelude — "The Quiet Room."** *(underworld)* The Mistress in her
-shrouded room beneath the city, then a kill in the overworld the police will file
-as random. Establishes the dread, the ruins, and the murders before Felix's
-ordinary morning. *Homeland* opens this way. Owner's call whether to include it.
+**Prologue — the night the boy was hidden.** *(rain / the necklace)* A man
+carries a four-year-old through a flooded Alexandria and puts the concealment
+necklace on him — the moment his light goes out of the Mistress's world, and the
+reason no one has found him in fourteen years. Written: `book-1/00-prologue.md`.
+The underworld "Quiet Room" material (the Mistress + a practice kill) is kept in
+`notebook/alt-opening-the-quiet-room.md` and feeds Chapter 10, "Practice."
 
 ### Act I — The Necklace (the ordinary world cracks)
 The owner's seven scenes, in order. Length treatment is the pending decision
