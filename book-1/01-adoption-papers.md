@@ -232,6 +232,6 @@ she had been hunting for fourteen years.
 
 The city did not look down. It never did.
 
-Addie leaned into the turn onto Jackson and opened the throttle, and the wind
-took the cold right through her jacket, and she welcomed it, because it was real,
-and because for one more minute, everything still was.
+Addie leaned into the turn onto Jackson Street and opened the throttle, and the
+wind took the cold right through her jacket, and she welcomed it, because it was
+real, and because for one more minute, everything still was.
