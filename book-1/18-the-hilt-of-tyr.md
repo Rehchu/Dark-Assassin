@@ -257,6 +257,21 @@ and I put it back on you and I said the thing I said, and I've thought about
 that knot every night for fourteen years, whether it would hold." He looked at
 it. "It held."
 
+"And then I carried you to a door with a light in it," his father said, "and I
+handed you to a woman I had never met, and I said three things to her, because
+I had to say something and three was all I had. I've said them to this wall
+every night since to see if I got them right." He did not look at the wall.
+"*Keep it with him. Never tell him until he leaves home. When he leaves, give
+him the box.*"
+
+Felix's throat closed.
+
+"She said them," he said, when he could. "Diane. On the phone, Saturday, in a
+parking lot. Word for word. She's been saying them to herself in her kitchen
+for fourteen years too."
+
+"Then we've both been saying them," his father said. "Good."
+
 "Alcide saw it," Addie said. "At the shop. He stopped on it."
 
 "He would. It's not his knot." His father sat back. "Put it away. Under your
