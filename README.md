@@ -82,7 +82,9 @@ Decide the ending of Book Three first, then write toward it.
 
 ## Voice
 
-Read the seven scenes in `book-1/` before anything else. The owner's voice is
+Read the owner's original scenes — `notebook/owner-originals/` (02–06 and the
+existing 07), now carried verbatim inside `book-1/02`–`07` — before anything
+else. The owner's voice is
 **contemporary, plain, close-third, dialogue-forward.** Short declarative
 sentences. Present-day Louisiana. Two teenagers on a motorcycle, a pawn shop
 that has seen better days, a unicorn mobile hanging in the window. It is
