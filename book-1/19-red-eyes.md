@@ -93,7 +93,7 @@ It was not a choice, by then. The shadow was up as high as it had ever been
 and the red came with it, the whites going, the deep red at the center of a
 coal deciding, and she felt it lay its color on her hands and on the brick and
 on the iron of the rail, and behind the rail the girl with the copper hair made
-a sound and put her hand on her stomach, and the woman in the gray coat put
+a sound and put her hand on her stomach, and the woman in the tan coat put
 her arm across the girl, and the boy —
 
 The boy stood up.
@@ -205,7 +205,7 @@ stone. There was no sound. His eyes stayed open. His chest, which had been
 moving, stopped. And on the stretcher on the wet brick of the river way he
 lay exactly as he had been lying, with his eyes on the ceiling, and was not
 there anymore, and behind the rail the girl with the copper hair said "*No,*"
-and the woman in the gray coat said a name — *Terry* — and the boy said
+and the woman in the tan coat said a name — *Terry* — and the boy said
 nothing at all.
 
 She stood.
@@ -227,7 +227,7 @@ eyes open.
 because she is not afraid of the levee. Six weeks ago. That one's Curtis
 Dupre; he stopped his truck for a girl by the road. And the boy at the end is
 Terry's — no. The boy at the end is nobody's. He was waiting for a ride." She
-looked at the woman in the gray coat. "You've got them on a door. In red. I
+looked at the woman in the tan coat. "You've got them on a door. In red. I
 know what's on your door, Jan Walker; I've stood across from your house. They
 are alive and they are *held,* and I can let them go, or I can not, and that is
 the only thing that has ever been up to me in this whole business, and I am

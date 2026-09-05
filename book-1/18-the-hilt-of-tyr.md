@@ -32,7 +32,7 @@ The light came round the bend.
 
 Anatole's lamp, held high, the way Anatole held it. Then the shapes behind it,
 three, coming out of the dark into the yellow the way people come up out of
-water — a woman in a gray coat with her hair gone gray at the temples, walking
+water — a woman in a tan coat with her hair gone gray at the temples, walking
 like she owned the tunnel, which she did; a girl with copper hair in a rain
 shell with a pack on her back and her arm through the arm of —
 

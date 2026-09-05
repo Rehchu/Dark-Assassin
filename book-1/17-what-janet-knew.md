@@ -215,7 +215,7 @@ pocket, and went in.
 
 Addie saw her mother come through the curtain and did not know her.
 
-That was the first thing. A woman in a gray coat with her hair gone gray at the
+That was the first thing. A woman in a tan coat with her hair gone gray at the
 temples and her face set in a way Addie had never seen it set, walking into a
 hall under the city at half past nine in the morning as if she had walked into
 it a hundred times, with forty pale people going quiet at the sight of her and
