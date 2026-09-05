@@ -48,7 +48,7 @@ The owner's seven scenes, in order. Length treatment is the pending decision
 
 | # | Title | POV | What it does |
 |---|---|---|---|
-| 1 | Adoption Papers | Felix/Addie | Felix finds the papers; Alexandria Orphanage; the first crack. *(owner)* |
+| 1 | Adoption Papers | Addie | Felix calls — he has found his adoption papers (Alexandria Orphanage); the first crack. Addie's POV is the owner's choice: keep it, do not rewrite from Felix. *(owner)* |
 | 2 | Addie's Mom | Addie | Janet Walker — planted here as someone who knows more than she says. *(owner)* |
 | 3 | The Coffee Shop, Part 1 | Felix/Addie | The folder, the necklace, the black-haired waitress who "started today." *(owner)* |
 | 4 | Research | Addie | She takes the necklace home, finds the obsidian and the fork rune. *(owner)* |
